@@ -1,1 +1,1 @@
-Sitemap: https://bartek-wojcik.github.io/bwojcik/sitemap.xml
+Sitemap: https://bwojcik.pl/sitemap.xml
